@@ -1,5 +1,5 @@
 package boardgame;
 
-public class Bard {
+public class Board {
 
 }
